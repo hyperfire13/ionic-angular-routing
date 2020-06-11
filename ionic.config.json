@@ -1,0 +1,7 @@
+{
+  "name": "microblog_ver2",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
